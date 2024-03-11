@@ -13,7 +13,7 @@ My personal repository
 
 - 📫 How to reach me **https://www.linkedin.com/in/akhilesh-kumar1/**
 
-- ⚡ Fun fact: "I don't believe in shortcuts; my code takes the scenic route. 🌄💻 #CodeExplorer"**
+- ⚡ Fun fact: **"I don't believe in shortcuts; my code takes the scenic route. 🌄💻 #CodeExplorer"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
