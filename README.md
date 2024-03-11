@@ -5,15 +5,15 @@ My personal repository
 
 <img align="right" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg?w=1060&t=st=1708867681~exp=1708868281~hmac=98b07b280f3e55bf4dec2208b147a51f8bb989634421e666b1e82f9cbccde4cf" width="400" height="300">
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akhilesh-kumar-10]
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, SQL, ReactJs, MongoDB, Express, NodeJs, Tailwind**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, SQL, ReactJs,Php**
 
 - 📫 How to reach me **https://www.linkedin.com/in/akhilesh-kumar1/**
 
-- ⚡ Fun fact **"My code has more commits than relationships. Priorities, right?"**
+- ⚡ Fun fact: "I don't believe in shortcuts; my code takes the scenic route. 🌄💻 #CodeExplorer"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
