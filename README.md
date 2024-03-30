@@ -7,7 +7,7 @@ My personal repository
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akhilesh-kumar-10]
+- 👨‍💻 All of my projects are available at [https://github.com/Akhileshkumar10]
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, SQL, ReactJs,Php**
 
