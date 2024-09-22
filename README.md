@@ -26,6 +26,8 @@ My personal repository
 
 ## GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
+ 
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
@@ -36,3 +38,10 @@ My personal repository
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
+ <br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkhileshKumar10&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
