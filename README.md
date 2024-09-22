@@ -38,10 +38,8 @@ My personal repository
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
- <br/>  
-
-
+<!-- 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkhileshKumar10&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AkhileshKumar10&show_icons=true&count_private=true&hide_border=true"  align="center" /></div>  
+-->
 
-<br/>  
