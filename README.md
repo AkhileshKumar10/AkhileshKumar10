@@ -5,7 +5,7 @@ My personal repository
 
 <img align="right" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg?w=1060&t=st=1708867681~exp=1708868281~hmac=98b07b280f3e55bf4dec2208b147a51f8bb989634421e666b1e82f9cbccde4cf" width="400" height="300">
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **React Native and Building mobile Apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akhileshkumar10]
 
