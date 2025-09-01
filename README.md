@@ -1,15 +1,15 @@
 # Akhilesh_Kumar
 My personal repository
 <h1 align="center">Hi 👋, I'm Akhilesh Kumar</h1>
-<h3 align="center">A Remote Full Stack Web developer</h3>
+<h3 align="center">A Devops engineer in making </h3>
 
 <img align="right" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg?w=1060&t=st=1708867681~exp=1708868281~hmac=98b07b280f3e55bf4dec2208b147a51f8bb989634421e666b1e82f9cbccde4cf" width="400" height="300">
 
-- 🌱 I’m currently learning **React Native and Building mobile Apps**
+- 🌱 I’m currently learning **LINUX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akhileshkumar10]
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, SQL, ReactJs,Php**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **https://www.linkedin.com/in/akhilesh-kumar1/**
 
